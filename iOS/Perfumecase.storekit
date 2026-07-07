@@ -1,0 +1,40 @@
+{
+  "identifier" : "Perfumecase",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {},
+  "subscriptionGroups" : [
+    {
+      "id" : "PERFUMECASE_GROUP",
+      "localizations" : [],
+      "name" : "Perfumecase Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "PERFUMECASE_MONTHLY",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock Wear-log by occasion and rotation reminders",
+              "displayName" : "Perfumecase Pro Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.perfumecase.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Perfumecase Pro Monthly",
+          "subscriptionGroupID" : "PERFUMECASE_GROUP",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
