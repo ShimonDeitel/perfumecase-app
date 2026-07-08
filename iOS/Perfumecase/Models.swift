@@ -6,6 +6,5 @@ struct BottleEntry: Identifiable, Codable, Equatable {
     var brand: String
     var notes: String
     var fillLevel: String
-    var notes: String = ""
     var createdAt: Date = Date()
 }
